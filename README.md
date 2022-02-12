@@ -1,7 +1,7 @@
 <p align=center>
   <span><strong>Cloney</strong> - Clone all Github repositories from a user or organization</span>
   <br>
-    <a target="_blank" href="license" title="License: MIT"><img src="https://img.shields.io/badge/License-MIT-red.svg"></a>
+    <a target="_blank" href="LICENSE" title="License: MIT"><img src="https://img.shields.io/badge/License-MIT-red.svg"></a>
 </p>
 <hr>
 
