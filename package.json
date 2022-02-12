@@ -4,7 +4,7 @@
   },
   "name": "cloney",
   "version": "1.0.0",
-  "description": "Cloney all repositories from a user or organization into the current directory",
+  "description": "Clone all repositories from a user or organization into the current directory",
   "main": "cloney.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
