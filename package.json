@@ -1,0 +1,19 @@
+{
+  "bin": {
+    "cloney": "cloney.js"
+  },
+  "name": "cloney",
+  "version": "1.0.0",
+  "description": "Cloney all repositories from a user or organization into the current directory",
+  "main": "cloney.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "breydan",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "chalk": "^4.1.2"
+  }
+}
